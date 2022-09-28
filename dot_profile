@@ -1,0 +1,24 @@
+# Added by Toolbox App
+export PATH="$PATH:/home/robin/.local/share/JetBrains/Toolbox/scripts"
+
+# export PG_OF_PATH=/home/robin/dev/awesome_opensource/of_v0.11.2_linux64gcc6_release
+# export PATH=$PATH:/usr/local/go/bin
+# export PATH=$PATH:/home/robin/go/bin
+# export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.345.b01-1.fc36.x86_64/jre
+# export PATH=$PATH:$JAVA_HOME/bin
+export PATH=/opt/apache-maven-3.8.6/bin:$PATH
+export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.345.b01-1.fc36.x86_64/jre
+export PATH=$PATH:/opt/gradle/gradle-7.5.1/bin
+
+# https://forum.endeavouros.com/t/applications-in-i3-are-zoomed-in/21196
+# https://dougie.io/linux/hidpi-retina-i3wm/
+# https://forum.endeavouros.com/t/ten-tweaks-for-eos-i3-wm-on-lenovo-with-high-dpi/10363
+# set this value to ~/.Xresources -> Xft.dpi:72
+# export QT_AUTO_SCREEN_SCALE_FACTOR=0
+# export QT_SCREEN_SCALE_FACTORS=0.8
+# export GDK_SCALE=0.8
+# export GDK_DPI_SCALE=1
+# export QT_SCALE_FACTOR=0.8 application
+
+# for tmux vi mode
+export EDITOR=vim

@@ -1,0 +1,5 @@
+Xft.dpi:80
+# enable anti-aliasing
+Xft.antialias: 1
+rofi.dpi: 80
+

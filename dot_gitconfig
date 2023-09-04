@@ -1,6 +1,6 @@
 [user]
 	name = Robin Rawat
-	email = robin.rawat@cynoteck.com
+	email = robin@cool.com
   password =
 [alias]
 	aliases = !git config --get-regexp 'alias.*' | colrm 1 6 | sed 's/[ ]/ = /' | sort    # list all aliases
